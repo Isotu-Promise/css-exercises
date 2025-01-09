@@ -1,6 +1,8 @@
 /* style.css */
+/* you can equally use the type selector or the class selector to apply style to the elements below. */
 
-.container {
+/* .container .text or div p */
+.container .text {
     background-color: yellow;
     color: red;
     font-size: 20px;
@@ -13,9 +15,3 @@
 
 
 
-
-
-
-
-/* Only the `p` elements that are descendants of the `div` element should have a yellow background, red text, a font size of 20px, and center aligned.
- */
