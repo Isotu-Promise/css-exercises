@@ -29,7 +29,6 @@ body {
 }
 
 /* SOLUTION */
-
 body {
   display: flex;
   flex-direction: column;
@@ -43,12 +42,12 @@ body {
   font-weight: 900;
 }
 
-.body {
+.body{
   flex: 1;
   display: flex;
 }
 
-.sidebar {
+.sidebar{
   flex-shrink: 0;
   padding: 16px;
 }
